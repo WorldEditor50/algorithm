@@ -1,0 +1,4 @@
+ibm 40 40
+aws 50 20
+ali 60 20
+huawei 70 30

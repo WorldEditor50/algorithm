@@ -1,0 +1,6 @@
+beijing 30 40
+washington 50 100
+lundon 20 50
+hongkong 35 20
+tokyo 25 30
+mosico 40 60

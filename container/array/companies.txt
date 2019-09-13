@@ -1,0 +1,8 @@
+google 10 20
+microsoft 20 30
+apple 30 30
+ibm 40 40
+aws 50 20
+ali 60 20
+huawei 70 30
+tecent 80 20

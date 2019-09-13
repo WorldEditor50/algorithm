@@ -1,0 +1,15 @@
+SRC = $(wildcard ./*.c)
+OBJ = $(patsubst *.c, *.o, $(SRC))
+TARGET = test
+CC  = gcc
+CPPFLAG = -I ./
+$(TARGET):$(OBJ)
+	$(CC) -o $@ $^
+.o:.c
+	$(CC) -o $@ -c $< $(CPPFLAG)
+.PHONY:
+clean:
+	rm *.o
+#$@: 输出
+#$<: 第一个依赖
+#$^: 所有的依赖

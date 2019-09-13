@@ -1,0 +1,48 @@
+cross over
+value = -55.2637    fitness = -3049.07
+value = -43.7285    fitness = -1907.18
+value = -43.7285    fitness = -1907.18
+value = -43.7285    fitness = -1907.18
+cross over
+value = -43.7285    fitness = -1907.18
+value = -43.7285    fitness = -1907.18
+cross over
+value = -43.7285    fitness = -1907.18
+cross over
+value = -32.0137    fitness = -1019.88
+cross over
+value = -0.228516    fitness = 4.94778
+cross over
+value = -0.228516    fitness = 4.94778
+cross over
+value = -0.228516    fitness = 4.94778
+cross over
+value = -0.228516    fitness = 4.94778
+cross over
+value = -0.228516    fitness = 4.94778
+cross over
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999
+cross over
+value = -0.00976562    fitness = 4.9999

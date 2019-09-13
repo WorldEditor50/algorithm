@@ -1,0 +1,6 @@
+huawei 70 30
+ali 60 20
+aws 50 20
+microsoft 20 30
+google 10 20
+tecent 80 20
