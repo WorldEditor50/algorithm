@@ -1,0 +1,11 @@
+5
+mirkwood
+legolas,200,15,
+modor
+sauron,1000,100,
+valinor
+gandalf,800,30,
+Arda
+melkor,10000,1000,
+middle_earth
+frodo,80,9,
